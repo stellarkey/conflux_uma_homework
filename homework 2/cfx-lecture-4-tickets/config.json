@@ -1,0 +1,8 @@
+{
+  "main": "./contracts/Tickets.sol",
+  "deploy": "./build/contracts/Tickets.json",
+  "compilers": {
+    "cfxtruffle": "0.0.8",
+    "solc": "0.7.3"
+  }
+}
